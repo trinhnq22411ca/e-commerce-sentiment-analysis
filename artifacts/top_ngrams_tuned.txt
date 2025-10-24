@@ -1,0 +1,66 @@
+
+[negative]
+no                             +10.8034
+difficult                      +8.0763
+not                            +7.4165
+broken                         +6.9623
+boring                         +6.8742
+wrong                          +6.2227
+confusing                      +6.1138
+low                            +6.0953
+missing                        +5.7513
+not clear                      +5.5333
+error                          +5.4538
+bad                            +5.4513
+disappointing                  +5.4390
+poor                           +5.3714
+worst                          +5.2780
+terrible                       +5.2336
+hard                           +5.1834
+disappointed                   +5.1562
+not best                       +5.1324
+die                            +5.0263
+
+[neutral]
+bir                            +2.2536
+simple                         +2.1912
+hi                             +2.0435
+information provided           +2.0021
+connect                        +1.9195
+interesante                    +1.8708
+excelente                      +1.8658
+long                           +1.7741
+fast                           +1.7028
+informative                    +1.6776
+na                             +1.6196
+excelent                       +1.5521
+side                           +1.5349
+grate                          +1.5322
+gud                            +1.4990
+buena                          +1.4942
+eyeopening                     +1.4800
+many ai                        +1.4735
+gem                            +1.4539
+detailed                       +1.4509
+
+[positive]
+good                           +12.2811
+great                          +11.6006
+amazing                        +7.3486
+excellent                      +7.3379
+well                           +7.0515
+clear                          +6.9348
+easy                           +6.2706
+nice                           +6.0789
+best                           +6.0413
+yes                            +5.6555
+thank                          +5.5779
+like                           +5.5769
+interesting                    +5.5117
+awesome                        +5.2644
+helpful                        +4.9213
+love                           +4.9155
+thanks                         +4.8816
+useful                         +4.7095
+engaging                       +4.5392
+super                          +4.3779
