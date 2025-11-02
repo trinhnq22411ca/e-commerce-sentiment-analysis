@@ -1,5 +1,8 @@
 # Udemy AI Course Reviews – EDA
-
+File code bao gồm:
+- \analysis\udemy_eda.ipynb cho Tiền xử lý dữ liệu
+- preprocessing.ipynb cho Modeling Logistic Regression (TF-IDF) và preprocessing2.ipynb cho Modeling TF-IDF + XGBoost
+- Visualization: preprocessing.ipynb
 ## 📦 Dữ liệu nguồn
 - 22 CSV chuẩn hoá `udemy_data_*.csv` (review text, rating, thời gian tương đối, metadata URL).
 - `general_course_data.xlsx` (title, badge, skill_level, lecture_count, content_length, price gốc/giảm, num_students).
@@ -60,4 +63,5 @@ jupyter nbconvert --to notebook --execute analysis/udemy_eda_complete.ipynb --in
 ```
 
 @2025 – Udemy AI Course Reviews Analytics
+
 # e-commerce-sentiment-analysis
